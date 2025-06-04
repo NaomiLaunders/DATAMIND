@@ -10,6 +10,7 @@ Here are our reports: https://datamind.org.uk/data/harmonised-data/linking-menta
 And two publications:
 
 [Prevalence and patient characteristics associated with cardiovascular disease risk factor screening in UK primary care for people with severe mental illness: an electronic healthcare record study](https://pubmed.ncbi.nlm.nih.gov/39819835/)
+
 [Characteristics of people with severe mental illness excluded from incentivised physical health checks in the UK: electronic healthcare record study](https://pubmed.ncbi.nlm.nih.gov/40377164/)
 
 Code lists are available on the [HDR-UK phenotype library](https://phenotypes.healthdatagateway.org/) and sample code has been uploaded to this GitHub page. As a first use of GitHub and of looking at some of these measures in CPRD, I will be optimising some of this code for future studies!
