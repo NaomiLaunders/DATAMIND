@@ -1,7 +1,17 @@
 ### DATAMIND: Roadbuilder 3: Investigating severe mental health and physical illness across the four nations
 
-Datamind is a collaborative project aiming to enrich mental health data science in the UK. I am working on RoadBuilder 3, which seeks to catalogue the routine data resources available in England, Wales, Scotland and Northern Ireland for studying severe mental illness and physical health. Resources will be made available to researchers on the HDR_UK website, in the form of a catalogue of data sources and code lists which will be available on the [HDR-UK phenotype library](https://phenotypes.healthdatagateway.org/).
+Datamind is a collaborative project aiming to enrich mental health data science in the UK. I am working on RoadBuilder 3, which seeks to catalogue the routine data resources available in England, Wales, Scotland and Northern Ireland for studying severe mental illness and physical health. 
+[Read more about Datamind here!](https://www.hdruk.ac.uk/helping-with-health-data/health-data-research-hubs/datamind/)
 
-We will be testing the feasibility of studying cardiovascular disease risk factors in people with severe mental illness across a range of data sources. 
+We tested the feasibility of studying cardiovascular disease risk factors in people with severe mental illness across a range of data sources. 
 
-I'll up load code here as the project begins. [Read more about Datamind here!](https://www.hdruk.ac.uk/helping-with-health-data/health-data-research-hubs/datamind/)
+Here are our reports: https://datamind.org.uk/data/harmonised-data/linking-mental-and-physical-health/
+
+And two publications:
+
+[Prevalence and patient characteristics associated with cardiovascular disease risk factor screening in UK primary care for people with severe mental illness: an electronic healthcare record study] (https://pubmed.ncbi.nlm.nih.gov/39819835/)
+[Characteristics of people with severe mental illness excluded from incentivised physical health checks in the UK: electronic healthcare record study] (https://pubmed.ncbi.nlm.nih.gov/40377164/)
+
+Code lists are available on the [HDR-UK phenotype library](https://phenotypes.healthdatagateway.org/) and sample code has been uploaded to this GitHub page. As a first use of GitHub and of looking at some of these measures in CPRD, I will be optimising some of this code for future studies!
+
+
