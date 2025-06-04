@@ -1,0 +1,7 @@
+These scripts are a subset of the scripts used in the project. They show:
+1. the extraction and cleaning of one variable (blood pressure - scripts beginning with 1)
+2. Appending Index of Multiple Deprivation and screening observations, limiting the cohort and producing a flow chart (scripts beginning with 2)
+3. Descriptive analysis for the report (scripts beginning with 3)
+4. Analysis for the two papers (scripts beginning with 4)
+
+Key code lists used in the study are available on the HDR UK Phenotype library.
