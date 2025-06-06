@@ -13,12 +13,14 @@ And two publications:
 
 [Characteristics of people with severe mental illness excluded from incentivised physical health checks in the UK: electronic healthcare record study](https://pubmed.ncbi.nlm.nih.gov/40377164/)
 
-Code lists are available on the [HDR-UK phenotype library](https://phenotypes.healthdatagateway.org/) and sample code has been uploaded to this GitHub page. As a first use of GitHub and of looking at some of these measures in CPRD, I will be optimising some of this code for future studies!
-
 ## Understanding the files
+Sample scripts have been uploaded to this GitHub page. As a first use of GitHub and of looking at some of these measures in CPRD, I will be optimising some of this code for future studies!
+
 Scripts are organised into chunks: Code lists (scripts beginning 1), observations (scripts beginning 2), cohort creation (scripts beginning 3) and analysis (scripts beginning 4).
 
-Only a subset of scripts have been provided for chunks 1-3, but all analysis files have been uploaded.
+Only a subset of scripts have been provided.
+
+Code lists are available on the [HDR-UK phenotype library](https://phenotypes.healthdatagateway.org/)  
 
 Code lists were generated in CPRD. They are specific to CPRD and to the exact database builds. When re-using codelists it's advisable to search for new terms in the system being used.
 
